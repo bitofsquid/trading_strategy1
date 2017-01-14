@@ -31,8 +31,9 @@ Based on these ratings, each firm was ranked from highest dispersion and highest
 ### Conclusion
 Based on the evidence presented in this analysis, it appears as though a market neutral trading strategy reliant on analyst optimism and dispersion has precarious potential for profitability. Despite these initial findings, the author believes there are several reasons for further analysis (see the section below on unrealistic assumptions and methodological shorcuts below). Please check back in the near future for more on this topic.
 
-
-
+![exhibit1](https://github.com/jtryker/trading_strategy1/blob/master/exhibit1.png)
+![exhibit2](https://github.com/jtryker/trading_strategy1/blob/master/exhibit2.png)
+![exhibit3](https://github.com/jtryker/trading_strategy1/blob/master/exhibit3.png)
 
 ## Additional comments
 
