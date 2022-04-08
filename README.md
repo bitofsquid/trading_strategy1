@@ -51,7 +51,7 @@ Thirdly, rebalancing was only casually dealt with in the portfolio construction 
 Finally, although this analysis attempted to recreate the main conjecture of the original paper using real-world data, several other real-world factors were not considered in evaluating a market neutral trading strategy. Such factors include transaction costs (including any borrowing/margin costs associated with shorting) and slippage.
 
 ### Tips for using `PortfolioAnalytics`
-The author found this (and its companion `PerformanceAnalytics` package) to be very helpful in this project. Despite this, the `PortfolioAnalytics` package itself proved a bit cumbersome to get started with. For those seeking to replicate this analysis, please take care to install *all* (optional and required) dependencies this package mentions in its documentation on CRAN. In addition, the following resources proved extremely helpful in getting started with the basics of the package effectively. Enjoy!
+The author found this (and its companion `PerformanceAnalytics` package) to be very helpful in this project. Despite this, the `PortfolioAnalytics` package itself proved a bit cumbersome to get started with. For those seeking to replicate this analysis, please take care to install *all* (optional and required) dependencies this package mentions in its documentation on CRAN. In addition, the following resources proved extremely helpful in getting started with the basics of the package effectively. Enjoy!!
 
 https://www.r-bloggers.com/introduction-to-portfolioanalytics/
 http://www.rinfinance.com/agenda/2014/workshop/RossBennett.pdf
